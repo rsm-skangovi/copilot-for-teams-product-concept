@@ -1,0 +1,7 @@
+"date,team,repo,ai_suggestions,ai_acceptances,ai_loc_changed,tests_passed,tests_failed,security_incidents"
+"2025-01-01,Payments,payments-service,420,280,1350,120,5,1"
+"2025-01-01,Core,core-platform,380,260,1100,200,3,0"
+"2025-01-01,Mobile,mobile-app,500,340,1500,180,6,2"
+"2025-01-08,Payments,payments-service,450,320,1420,130,4,1"
+"2025-01-08,Core,core-platform,390,275,1180,205,2,0"
+"2025-01-08,Mobile,mobile-app,520,360,1580,190,4,1"
