@@ -1,0 +1,36 @@
+# Product Brief – GitHub Copilot for Teams
+
+## Background
+
+GitHub Copilot today is optimized for **individual developer productivity**.
+Enterprise customers increasingly ask questions that Copilot does not answer
+well:
+
+- “Is this improving or hurting code quality across our org?”
+- “How do we roll it out safely in regulated repos?”
+- “How do we justify the spend to finance and security?”
+
+## Problem Statement
+
+Engineering leaders lack **visibility, control, and proof** around Copilot
+usage at the org level, which slows adoption and expansion.
+
+## Users
+
+- VP / Director of Engineering
+- DevEx / Platform Engineering leads
+- Staff / Principal engineers
+- Security / Compliance partners
+
+## Goals
+
+- Increase safe Copilot adoption across teams
+- Provide credible metrics that support expansion / renewal
+- Reduce security and compliance risk from AI-generated code
+- Standardize best practices across an org
+
+## Out of Scope (initially)
+
+- Changing the core suggestion model
+- Non-GitHub ecosystems (GitLab, Bitbucket, etc.)
+- Per-developer performance ranking (to avoid surveillance concerns)
