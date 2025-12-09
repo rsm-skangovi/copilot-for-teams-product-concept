@@ -1,0 +1,32 @@
+# Rollout Plan (Phased)
+
+## Phase 0 – Discovery
+
+- 8–10 interviews with VPs/Directors of Eng and DevEx leaders at companies
+  already piloting Copilot.
+- Validate which metrics and guardrails matter most.
+- Align with GitHub security/compliance teams on constraints.
+
+## Phase 1 – Alpha (Read-only Analytics)
+
+- Implement basic telemetry ingestion and aggregation.
+- Ship an internal dashboard for 3–5 design-partner orgs.
+- Success: leaders log in weekly and use the data in their planning.
+
+## Phase 2 – Policies & Nudges
+
+- Introduce a small set of policy templates:
+  - Allow / block repos
+  - Require tests when AI diff > X%
+  - Require code-owner review for AI-heavy changes
+- Surface policy status in IDE and PRs.
+- Measure:
+  - Policy adoption
+  - Developer sentiment (surveys)
+  - Changes in coverage / incidents.
+
+## Phase 3 – Enterprise Hardening
+
+- Fine-grained RBAC, audit logging, and SOC2-ready controls.
+- Deeper integrations with GitHub Advanced Security and compliance tooling.
+- Pricing & packaging experiments for enterprise customers.
